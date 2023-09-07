@@ -1,1 +1,3 @@
-# Bayesian-Posterior-Approximation
+# Bayesian Posterior Approximation: A Comparative Analysis of Monte Carlo Sampling and Variational Inference Techniques
+
+This study delved into the challenges of Bayesian posterior approximation, exploring a variety of methods commonly used in the field of data science. From the classic Monte Carlo Sampling and its Markov Chain Monte Carlo (MCMC) variant to the deterministic Variational Inference (VI) methods, I assessed the merits and challenges of each approach. Through a comparative analysis, I aim to provide insights into their practical applications. The objective is to gain a comprehensive understanding, aiding one in selecting the appropriate Bayesian inference method tailored to their specific needs.
